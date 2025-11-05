@@ -54,6 +54,9 @@ Les données sont stockées dans une base **MySQL** nommée `DB_HOPITAL` contena
 ```bash
 mvn clean install
 
+---
+
+
 ### 👩‍💻 RÉALISÉ PAR
 
 Hajar Elfallaki-Idrissi
