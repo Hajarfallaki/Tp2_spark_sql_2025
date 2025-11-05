@@ -49,11 +49,6 @@ Les données sont stockées dans une base **MySQL** nommée `DB_HOPITAL` contena
 
 ---
 
-J'ai bien compris. Vous souhaitez que je sépare les deux sections de votre texte de signature et d'exécution.
-
-Voici le texte séparé et formaté :
-
-
 ### 👩‍💻 RÉALISÉ PAR
 
 Hajar Elfallaki-Idrissi
