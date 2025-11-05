@@ -53,15 +53,9 @@ J'ai bien compris. Vous souhaitez que je sépare les deux sections de votre text
 
 Voici le texte séparé et formaté :
 
-🚀 Exécution du projet
-Compiler et exécuter avec Maven :
 
-Bash
+### 👩‍💻 RÉALISÉ PAR
 
-mvn clean install
-👩‍💻 RÉALISÉ PAR
 Hajar Elfallaki-Idrissi
-
 Étudiante ingénieure en Data & Intelligence Artificielle & Cloud Computing
-
 ENSET Mohammedia — 2025
