@@ -53,3 +53,9 @@ Les données sont stockées dans une base **MySQL** nommée `DB_HOPITAL` contena
 ### 1. Compiler et exécuter avec Maven :
 ```bash
 mvn clean install
+
+### 👩‍💻 RÉALISÉ PAR
+
+Hajar Elfallaki-Idrissi
+Étudiante ingénieure en Data & Intelligence Artificielle & Cloud Computing
+ENSET Mohammedia — 2025
