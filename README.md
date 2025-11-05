@@ -49,16 +49,19 @@ Les données sont stockées dans une base **MySQL** nommée `DB_HOPITAL` contena
 
 ---
 
-## 🚀 Exécution du projet
-### 1. Compiler et exécuter avec Maven :
-```bash
+J'ai bien compris. Vous souhaitez que je sépare les deux sections de votre texte de signature et d'exécution.
+
+Voici le texte séparé et formaté :
+
+🚀 Exécution du projet
+Compiler et exécuter avec Maven :
+
+Bash
+
 mvn clean install
-
----
-
-
-### 👩‍💻 RÉALISÉ PAR
-
+👩‍💻 RÉALISÉ PAR
 Hajar Elfallaki-Idrissi
+
 Étudiante ingénieure en Data & Intelligence Artificielle & Cloud Computing
+
 ENSET Mohammedia — 2025
